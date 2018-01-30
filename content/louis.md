@@ -22,6 +22,13 @@ Hi Im Louis Im a Computer Science undergraduate student. Im interested in the be
 ### During this semester we'll be working on a shared transcript discovery tool that creates a de-bruijn graph from different transcripts in order to analyze differential expression.
 
 ###
+### Week 8 ():
+- Fixing Errors when running fluxsimulatar.
+- This folder contains both Fastq files simulated from yeast (Readme contains step by step guide on the run)https://drive.google.com/open?id=1qm2Cay0_CcidLqT6CaN_7btRWn8Bb5OZ
+
+### Week 7 ():
+-Simulate 2 RNA sequences using flux-simulator saccharomyces cerevisiae(yeast), to test the DBGDE.
+
 ### Week 6 (7-12):
 - Add Diferential Expresion to current vertion. Such that by a user set cuttoff point, links with a lower score than this will be deleted. 
 
