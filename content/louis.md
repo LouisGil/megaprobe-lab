@@ -1,9 +1,9 @@
 Title: Louis F. Gil Acevedo 
 Date: 12-13-2017
-Modified: 1-18-2017
+Modified: 3-1-2019
 Slug: louis
 Category: People
-Tags: de-novo de-bruijn
+Tags: Cancer diff-hash de-novo de-bruijn
 
 ## Contact info:
 
@@ -13,11 +13,34 @@ Tags: de-novo de-bruijn
 # Bio:
 Hi Im Louis Im a Computer Science undergraduate student. Im interested in the beautiful merger of computer science and biology. It all started with [the fibonacci numbers](https://en.wikipedia.org/wiki/Fibonacci_number).
 
-> Insert Quotes here
+> Insert Quotes here Please!!!
 
 
 # Weekly Updates
 
+## Predicting cancer outcome using kmer differential expression
+
+###
+
+### Week
+### Week 7 (25-1/Feb)
+-Very intensive test and project week no progress
+
+### Week 6 (18-22/Feb)
+-Recieved response from titus & contacted me with Sasha from the Personal Genome Proyect. I now have [data](https://my.pgp-hms.org/profile/huDCD45D).
+
+### Week 5 (11-15/Feb)
+-Prepare power point for presentation/Review of "Fast and accurate differential transcript usage by testing equivalence class counts"
+-Ask Titus if he knows of any publicly available human cancer raw data (Tumor & Germline)
+-Learn to use Deseq2
+
+### Week 3 (28-1/Jan)
+-Ran diff-hash on defaulf
+
+### Week 1&2 (14-25/Jan)
+-Establish what to do researsh on and read papers to back in shape
+- Try to find publicly available raw fastq's of cancer patients
+-Ir al workshop de Hector Corrada
 
 ### During this semester we'll be working on a shared transcript discovery tool that creates a de-bruijn graph from different transcripts in order to analyze differential expression.
 
