@@ -22,7 +22,7 @@ Hi Im Louis Im a Computer Science undergraduate student. Im interested in the be
 
 ###
 
-### Week
+
 ### Week 7 (25-1/Feb)
 -Very intensive test and project week no progress
 
