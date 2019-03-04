@@ -31,7 +31,9 @@ Hi Im Louis Im a Computer Science undergraduate student. Im interested in the be
 
 ### Week 5 (11-15/Feb)
 -Prepare power point for presentation/Review of "Fast and accurate differential transcript usage by testing equivalence class counts"
+
 -Ask Titus if he knows of any publicly available human cancer raw data (Tumor & Germline)
+
 -Learn to use Deseq2
 
 ### Week 3 (28-1/Jan)
@@ -39,11 +41,13 @@ Hi Im Louis Im a Computer Science undergraduate student. Im interested in the be
 
 ### Week 1&2 (14-25/Jan)
 -Establish what to do researsh on and read papers to back in shape
-- Try to find publicly available raw fastq's of cancer patients
+
+-Try to find publicly available raw fastq's of cancer patients
+
 -Ir al workshop de Hector Corrada
 
 ### During this semester we'll be working on a shared transcript discovery tool that creates a de-bruijn graph from different transcripts in order to analyze differential expression.
-
+___
 ###
 ### Week 9 (14-19/Feb):
 -Modifing the diferential expresion formula. Found to many outliars that the original formula was going to miss and miss repeent hence not only false negatives but false positives. The formula was adapted to the (kmer_A1-kmer_B1)+(kmer_A2-kmer_B2)/(kmer_A1+kmer_B1+kmer_A2+kmer_B2). The other aproach that was concluded for future work, was to test each node for diferential expression and using the treshold cut those off, this method may be very quick since it can be done from the creation of the graph.
