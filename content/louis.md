@@ -1,6 +1,6 @@
 Title: Louis F. Gil Acevedo 
 Date: 12-13-2017
-Modified: 4-11-2019
+Modified: 4-29-2018
 Slug: louis
 Category: People
 Tags: Cancer diff-hash de-novo de-bruijn
@@ -13,12 +13,17 @@ Tags: Cancer diff-hash de-novo de-bruijn
 # Bio:
 Hi Im Louis Im a Computer Science undergraduate student. Im interested in the beautiful merger of computer science and biology. It all started with [the fibonacci numbers](https://en.wikipedia.org/wiki/Fibonacci_number).
 
-> Insert Quotes here Please!!!
+> Insert Quotes here. Please!!!
 
 
 # Weekly Updates
 
 ## Predicting cancer outcome using kmer differential expression
+
+### Week 9,10 (9-29/March)
+-Stuck at cleaning files
+-And had Bio test I had to pass
+-Also trying to learn kevlar (found the analysis from the paper in a jupyter notebook)
 
 ### Week 8 (3-8/March)
 -Converted bam files to fastq
