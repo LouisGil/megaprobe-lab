@@ -1,6 +1,6 @@
 Title: Louis F. Gil Acevedo 
 Date: 12-13-2017
-Modified: 4-20-2019
+Modified: 5-17-2019
 Slug: louis
 Category: People
 Tags: Cancer diff-hash de-novo de-bruijn
@@ -20,6 +20,11 @@ Hi Im Louis Im a Computer Science undergraduate student. Im interested in the be
 
 ## Predicting cancer outcome using kmer differential expression
 
+### Week 15-18 (21-17/May)
+-Ran diffhash with the first 4 million lines of each sample
+-Identified kmers only present in the tumor sample
+-Calculated Fold Change from hashcounts (sumed 1 to every sample in order to eliminate the 0's in the divition)
+
 ### Week 11-14 (1-20/April)
 -Ran using duplicates of my own files (test) in order to have multilple samples of each condition (seems fine)
 -Ran using no duplicates (using test files). (This also seems fine, checked hashcounts and output fasta file)
@@ -30,6 +35,8 @@ Hi Im Louis Im a Computer Science undergraduate student. Im interested in the be
 -Was trying to use kevlar 
 -Currently using Sanquises version of diffhash
 -Created a subset of my data fot testing diffhash
+
+### Week 8 (3-8/March)
 
 ### Week 8 (3-8/March)
 -Converted bam files to fastq
